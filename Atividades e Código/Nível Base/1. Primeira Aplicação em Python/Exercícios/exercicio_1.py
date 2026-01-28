@@ -16,5 +16,7 @@ PI = 3.14159
 print(f'Pi arredondado para 2 casas decimais é: {PI:.2f}')
 # print('Pi arredondado para 2 casas decimais é: ', round(PI, 2))
 
+print("sdsd" + PI)
+
 
 
