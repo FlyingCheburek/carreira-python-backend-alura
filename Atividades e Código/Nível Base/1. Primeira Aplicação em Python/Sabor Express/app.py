@@ -1,4 +1,4 @@
-print('\n=== SABOR EXPRESS ===\n')
+print('\n𝘀𝗮𝗯𝗼𝗿 𝗲𝘅𝗽𝗿𝗲𝘀𝘀\n')
 
 print('1. Cadastrar restaurante')
 print('2. Listar restaurante')
@@ -7,4 +7,6 @@ print('4. Sair\n')
 
 opcao_escolhida: str = input('Escolha uma opção: ')
 
-print('\nVocê escolheu a opção: ', opcao_escolhida)
+print(f'\nVocê escolheu a opção: {opcao_escolhida}')
+
+
